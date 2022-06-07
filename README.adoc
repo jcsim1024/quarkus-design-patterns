@@ -1,0 +1,10 @@
+# quarkus-design-patterns
+Small project to learn design patterns with quarkus 
+
+This project is inspired a lot by "DESIGN PATTERNS" by Alexander SHVETS , you can buy it on his web site https://refactoring.guru/home
+
+* Creational Design Patterns 
+** Factory method
+** Abstract factory
+** Builder 
+* Structural Design Pattern ... WIP
